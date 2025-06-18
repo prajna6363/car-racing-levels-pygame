@@ -22,5 +22,5 @@ Put the following inside an `assets/` folder:
 ### 🚀 Run the Game:
 ```bash
 pip install pygame
-python car_game.py
+python car.py
 
